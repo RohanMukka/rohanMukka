@@ -39,7 +39,7 @@ I build systems that scale — from distributed streaming pipelines to AI-powere
 | [**MLFlowForge**](https://github.com/RohanMukka/MLFlowForge) | End-to-end MLOps pipeline — Airflow DAGs, MLflow registry, Evidently drift monitoring, automated retraining | Python · Airflow · MLflow · PyTorch · XGBoost |
 | [**JAI**](https://github.com/RohanMukka/JAI) | AI Chrome extension that auto-tailors resumes to job descriptions with Overleaf LaTeX integration | TypeScript · Next.js · Google Gemini · MongoDB |
 | [**CodeThrough**](https://github.com/RohanMukka/CodeThrough) | Interactive algorithm visualizer — step through code and watch data structures transform in real time | TypeScript · React · CodeMirror · ReactFlow |
-| [**EduLens AI**](https://github.com/RohanMukka/edulens-ai) | Adaptive learning companion using NLP to analyze student understanding and personalize learning paths | TypeScript · NLP · Nira Hackathon 2026 |
+| [**EduLens AI**](https://github.com/RohanMukka/edulens-ai) | Adaptive learning companion using NLP to analyze student understanding and personalize learning paths | TypeScript · NLP |
 
 ---
 
